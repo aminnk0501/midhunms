@@ -1,2 +1,0 @@
-# midhunms
-personal portfolio
